@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-16T02:05:48 IST" name="Default suite" finished-at="2021-12-16T02:06:30 IST" duration-ms="41465">
+    <groups>
+    </groups>
+    <test started-at="2021-12-16T02:05:48 IST" name="Default test" finished-at="2021-12-16T02:06:30 IST" duration-ms="41465">
+      <class name="com.testvox.main.MainTC">
+        <test-method signature="Amazon()[pri:0, instance:com.testvox.main.MainTC@4c402120]" started-at="2021-12-16T02:05:48 IST" name="Amazon" finished-at="2021-12-16T02:06:20 IST" duration-ms="31258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon -->
+        <test-method signature="GoogleSearch()[pri:0, instance:com.testvox.main.MainTC@4c402120]" started-at="2021-12-16T02:06:20 IST" name="GoogleSearch" finished-at="2021-12-16T02:06:30 IST" duration-ms="10181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearch -->
+      </class> <!-- com.testvox.main.MainTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
